@@ -4,11 +4,11 @@
  * @ngdoc function
  * @name pathfinderApp.controller:AboutCtrl
  * @description
- * # AboutCtrl
+ * # CampaignCtrl
  * Controller of the pathfinderApp
  */
 angular.module('pathfinderApp')
-  .controller('AboutCtrl', function ($scope) {
+  .controller('CampaignCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
